@@ -2,7 +2,7 @@
 Desc
 
 
-Style	Syntax	Keyboard shortcut	Example	Output
+## Style	Syntax	Keyboard shortcut	Example	Output
 Bold	** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux)	**This is bold text**	This is bold text
 Italic	* * or _ _     	Command+I (Mac) or Ctrl+I (Windows/Linux)	*This text is italicized*	This text is italicized
 Strikethrough	~~ ~~		~~This was mistaken text~~	This was mistaken text
